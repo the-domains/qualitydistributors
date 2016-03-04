@@ -1,7 +1,7 @@
 name: qualitydistributors
 favicon: null
-layout_spectrum: 0.6909749926999211
-typography_spectrum: 0.07029777835123241
+layout_spectrum: 0.75071
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.7341583180241287
-  lightness: 0.071622398449108
-  saturation: 0.7250506058335304
-  rhythmicContrast: 0.6141465737018734
+  brandStrength: 1
+  lightness: 0.5
+  saturation: 0.75
+  rhythmicContrast: 0.75
 purpose: []
